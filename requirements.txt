@@ -6,4 +6,5 @@ scikit-lern
 catboost
 dill
 flask
--e .
+
+#-e .
